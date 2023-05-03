@@ -1,0 +1,66 @@
+<VARIETIES>
+    <VARIETY>
+        <AVGPRICE>1200</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Blonde Labrador</BREED>
+        <COUNT>21</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY>
+    <VARIETY>
+        <AVGPRICE>2700</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Golden Retriever</BREED>
+        <COUNT>5</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY>    
+    <VARIETY>
+        <AVGPRICE>800</AVGPRICE>
+        <TYPE>Cat</TYPE>
+        <BREED>Whiskey</BREED>
+        <COUNT>108</COUNT>
+        <ICON>cat</ICON>
+        <DESC>It is very cute cat which will help in reducing depression and also will emblace the home</DESC>
+    </VARIETY>
+    <VARIETY>
+        <AVGPRICE>2000</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Dogerman</BREED>
+        <COUNT>2</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY> 
+    <VARIETY>
+        <AVGPRICE>1900</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Pomerian</BREED>
+        <COUNT>20</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY>      
+    <VARIETY>
+        <AVGPRICE>900</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Huskey</BREED>
+        <COUNT>50</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY>  
+    <VARIETY>
+        <AVGPRICE>1200</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Blonde Labrador</BREED>
+        <COUNT>21</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY>
+    <VARIETY>
+        <AVGPRICE>2700</AVGPRICE>
+        <TYPE>Dog</TYPE>
+        <BREED>Golden Retriever</BREED>
+        <COUNT>5</COUNT>
+        <ICON>dog</ICON>
+        <DESC>It is very cute dog which will help in reducing depression and also will protect the home</DESC>
+    </VARIETY>           
+</VARIETIES>
